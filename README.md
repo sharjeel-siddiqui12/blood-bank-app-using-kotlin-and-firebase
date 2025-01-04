@@ -32,11 +32,18 @@ JU Blood Bank is a community-driven initiative, and we invite you to join us in 
 
 <p align="center">
     <img src="https://github.com/sharjeel-siddiqui12/blood-bank-app-using-kotlin-and-firebase/blob/master/images/login.jpg" alt="Image 3" width="200">
-    
-   <img src="https://github.com/rasel3413/JUBloodBank/blob/master/images/HomePage.jpeg" alt="Image 2" width="200">
-  <img src="https://github.com/rasel3413/JUBloodBank/blob/master/images/Donor%20List.jpeg" alt="Image 1" width="200">
 
-  <img src="https://github.com/rasel3413/JUBloodBank/blob/master/images/ProfilePage.jpeg" alt="Image 3" width="200">
+   <img src="https://github.com/sharjeel-siddiqui12/blood-bank-app-using-kotlin-and-firebase/blob/master/images/signup.jpg" alt="Image 2" width="200">
+
+  <img src="https://github.com/sharjeel-siddiqui12/blood-bank-app-using-kotlin-and-firebase/blob/master/images/home.jpg" alt="Image 1" width="200">
+
+  <img src="https://github.com/sharjeel-siddiqui12/blood-bank-app-using-kotlin-and-firebase/blob/master/images/profile.jpg" alt="Image 3" width="200">
+
+   <img src="https://github.com/sharjeel-siddiqui12/blood-bank-app-using-kotlin-and-firebase/blob/master/images/searchDonor.jpg" alt="Image 3" width="200">
+
+   <img src="https://github.com/sharjeel-siddiqui12/blood-bank-app-using-kotlin-and-firebase/blob/master/images/requestBlood.jpg" alt="Image 3" width="200">
+
+
 
 </p>
 
