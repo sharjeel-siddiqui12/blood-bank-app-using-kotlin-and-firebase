@@ -1,0 +1,60 @@
+<resources>
+        <string name="app_name">Blood Bank APP</string>
+    <string-array name="blood">
+        <item>A+</item>
+        <item>B+</item>
+        <item>AB+</item>
+        <item>O+</item>
+        <item>A-</item>
+        <item>B-</item>
+        <item>AB-</item>
+        <item>O-</item>
+    </string-array>
+    <string-array name="amount">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="hall">
+        <item>All</item>
+        <item>Agha Khan Hospital</item>
+        <item>Jinnah Hospital</item>
+        <item>Liaquat National Hospital</item>
+        <item>South City Hospital</item>
+        <item>Hill Park General Hospital</item>
+        <item>Al-Mustafa Hospital</item>
+        <item>Darul Sehat Hospital</item>
+        <item>Family Care Hospital</item>
+        <item>OMI Hospital</item>
+        <item>PNS SHIFA Hospital</item>
+        <item>Park Lane Hospital</item>
+        <item>Lifeline Hospital</item>
+        <item>Kharadar General Hospital</item>
+        <item>Sindh Government Hospital</item>
+        <item>Memon Hospital Burns Road</item>
+        <item>Al-Khidmat Hospital</item>
+    </string-array>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
