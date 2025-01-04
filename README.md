@@ -1,6 +1,6 @@
-# JU Blood Bank - Your Blood Donation Companion
+#  Blood Bank App - Your Blood Donation Companion
 
-JU Blood Bank is an Android mobile application developed in Kotlin that serves as a dedicated platform for blood donation and blood request management. Whether you are looking for a blood donation or want to contribute by donating blood, our app simplifies the entire process and connects donors and recipients seamlessly.
+ Blood Bank is an Android mobile application developed in Kotlin that serves as a dedicated platform for blood donation and blood request management. Whether you are looking for a blood donation or want to contribute by donating blood, our app simplifies the entire process and connects donors and recipients seamlessly.
 
 ## Key Features
 
@@ -22,11 +22,11 @@ JU Blood Bank is an Android mobile application developed in Kotlin that serves a
 
 ## Get Involved
 
-JU Blood Bank is a community-driven initiative, and we invite you to join us in our mission to make blood donation accessible and convenient for everyone. Here are some ways you can get involved:
+ Blood Bank is a community-driven initiative, and we invite you to join us in our mission to make blood donation accessible and convenient for everyone. Here are some ways you can get involved:
 
-- **Download the app:** Download the JU Blood Bank app from the Google Play Store and create your user profile.
+- **Download the app:** Download the  Blood Bank app from the Google Play Store and create your user profile.
 - **Donate blood:** If you are eligible to donate blood, please consider scheduling a donation appointment through the app.
-- **Spread the word:** Share the JU Blood Bank app with your friends, family, and colleagues and encourage them to get involved.
+- **Spread the word:** Share the  Blood Bank app with your friends, family, and colleagues and encourage them to get involved.
 
 ## Screenshots
 
